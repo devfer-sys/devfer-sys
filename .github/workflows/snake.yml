@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: tu_nombre_de_usuario
+          github_user_name: deveder_sys # Cambia esto por tu nombre de usuario
           svg_out_path: dist/snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
@@ -22,3 +22,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
