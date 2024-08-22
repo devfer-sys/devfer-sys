@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://github.com/devfer-sys/devfer-sys/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/devfer_sys/devfer-sys/raw/output/snake.svg" alt="Snake animation" />
+
 
 ###
