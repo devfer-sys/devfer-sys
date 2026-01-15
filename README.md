@@ -26,9 +26,9 @@
 <p align="left">
 Soy Franklin Fernandez, estudiante de Ingeniería de Sistemas con interés en desarrollo web, infraestructura y soluciones tecnológicas.
 <br>
-- Actualmente trabajando en proyectos personales de desarrollo web y sistemas educativos.
-- Aprendiendo constantemente sobre DevOps, redes y despliegue en la nube.
-- En mi tiempo libre experimento con proyectos en Python, React y administración de servidores Linux.
+- Actualmente trabajando en proyectos personales de desarrollo web y sistemas educativos. <br>
+- Aprendiendo constantemente sobre DevOps, redes y despliegue en la nube.<br>
+- En mi tiempo libre experimento con proyectos en Python, React y administración de servidores Linux.<br>
 </p>
 
 ---
