@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://www.freepik.es/foto-gratis/icono-perfil-usuario-parte-frontal_41949685.htm#fromView=search&page=1&position=1&uuid=7682cb53-c4fb-4a58-91fa-677f351a967c" alt="Foto de perfil" />
-</div>
+
 
 ---
 
