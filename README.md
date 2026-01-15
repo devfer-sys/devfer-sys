@@ -19,16 +19,16 @@
 
 ---
 
-<h1 align="center">¡Hey there 👋</h1>
+<h1 align="center">¡Hey there </h1>
 
 <h3 align="left">👨‍💻 Sobre mí</h3>
 
 <p align="left">
 Soy Franklin Fernandez, estudiante de Ingeniería de Sistemas con interés en desarrollo web, infraestructura y soluciones tecnológicas.
 <br>
-- 🔭 Actualmente trabajando en proyectos personales de desarrollo web y sistemas educativos.
-- 📚 Aprendiendo constantemente sobre DevOps, redes y despliegue en la nube.
-- ⚡ En mi tiempo libre experimento con proyectos en Python, React y administración de servidores Linux.
+- Actualmente trabajando en proyectos personales de desarrollo web y sistemas educativos.
+- Aprendiendo constantemente sobre DevOps, redes y despliegue en la nube.
+- En mi tiempo libre experimento con proyectos en Python, React y administración de servidores Linux.
 </p>
 
 ---
